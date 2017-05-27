@@ -1,2 +1,2 @@
 # discrete-approximation
-approximation with full of predictions can be continuous or discrete 
+# approximation with full of predictions can be continuous or discrete 
